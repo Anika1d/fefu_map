@@ -1,6 +1,6 @@
 package mir.anika1d.core.retrofit.repository
 
-import android.content.Context
+import mir.anika1d.core.retrofit.RetrofitServices
 
-class RepositoryRetrofitImpl (val context:Context):IRepositoryRetrofit {
+class RepositoryRetrofitImpl (val retrofitServices: RetrofitServices):IRepositoryRetrofit {
 }
