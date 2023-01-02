@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Fefu Map</string>
+    <string name="mapbox_access_token" tools:ignore="Typos">pk.eyJ1IjoiYW5pa2ExZCIsImEiOiJjbGNlb2RmOXQyMGdqM3Zxcm50NG9rMWtrIn0.9m7CUkrZxcssjDhz9U7o1w</string>
+</resources>
